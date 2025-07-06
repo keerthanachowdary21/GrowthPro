@@ -22,16 +22,9 @@ This project is a Mini Local Business Dashboard built for the GrowthProAI Full S
 ### Prerequisites
 
 - Node.js (v18 or newer recommended)
-- npm or yarn
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/[Your-GitHub-Username]/growthproai-dashboard.git
-cd growthproai-dashboard
-```
-
-### 2. Setup the Backend
+- npm
+  
+###  Setup the Backend
 
 ```bash
 cd server
@@ -40,7 +33,7 @@ npm start
 ```
 The backend server will be running on `http://localhost:3001`.
 
-### 3. Setup the Frontend
+###  Setup the Frontend
 
 Open a new terminal window in the project's root directory.
 
@@ -51,8 +44,3 @@ npm run dev
 ```
 The frontend development server will be running on `http://localhost:5173` (or another available port).
 
----
-## (Optional) Deployed Links
-
-- **Frontend (Vercel):** https://growthproai-dashboard-beige.vercel.app/
-- **Backend (Render):** https://growthproaibackend-812z.onrender.com
